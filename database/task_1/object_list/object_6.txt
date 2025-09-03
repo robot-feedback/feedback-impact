@@ -1,0 +1,7 @@
+bird: 1 yellow hexagon, 1 orange square, 1 blue rhombus, 1 green triangle
+table lamp: 1 yellow hexagon, 1 blue rhombus, 2 green triangles
+perfume bottle: 1 yellow hexagon, 1 orange square
+yellow carrot: 1 yellow hexagon, 2 green triangles
+bird: 1 blue rhombus, 2 green triangles
+candy: 2 green triangles, 1 orange square
+wine glass: 1 orange square, 2 green triangles

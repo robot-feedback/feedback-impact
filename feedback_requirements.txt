@@ -1,0 +1,9 @@
+openai
+gTTS
+playsound
+unidecode
+zmq
+opencv-python
+Pillow
+google-cloud-texttospeech
+PyQt6

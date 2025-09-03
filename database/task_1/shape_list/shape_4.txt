@@ -1,0 +1,5 @@
+3D rectangel,blue,1
+3D cube,blue,1
+3D half circle,blue,1
+3D triangle,blue,1
+3D rectangular cut-out,blue,1

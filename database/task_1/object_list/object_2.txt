@@ -1,0 +1,5 @@
+arrowhead: 1 red trapezoid, 1 orange square, 1 green triangle
+torch: 1 red trapezoid, 1 orange square, 1 white rhombus
+rocket: 1 red trapezoid, 1 orange square, 1 green triangle
+pencil: 2 orange squares, 1 green triangle
+house: 1 red trapezoid, 1 orange square

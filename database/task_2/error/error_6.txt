@@ -1,0 +1,15 @@
+1.	Spelling Error: "medias", position: first sentence  
+2.	Grammar Error: "have changed", position: first sentence  
+3.	Grammar Error: "we communicates", position: first sentence  
+4.	Word Choice Error: "Peoples", position: second sentence  
+5.	Grammar Error: "shares their experiences", position: second sentence  
+6.	Spelling Error: "informations", position: second sentence  
+7.	Grammar Error: "this also lead", position: third sentence  
+8.	Word Choice Error: "a increase", position: third sentence  
+9.	Grammar Error: "try's", position: fourth sentence  
+10.	Grammar Error: "doesn't prioritize", position: fourth sentence  
+11.	Spelling Error: "teaches", position: fifth sentence  
+12.	Word Choice Error: "users privacy", position: sixth sentence  
+13.	Capitalization Error: "Governments", position: fourth sentence  
+14.	Consistency Error: "consequence", position: seventh sentence  
+15.	Punctuation Error: "society’s", position: seventh sentence  

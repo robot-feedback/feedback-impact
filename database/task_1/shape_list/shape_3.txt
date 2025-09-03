@@ -1,0 +1,4 @@
+triangle,green,1
+rhombus,white,2
+rhombus,blue,1
+square,red,1

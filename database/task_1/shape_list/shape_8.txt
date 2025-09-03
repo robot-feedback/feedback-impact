@@ -1,0 +1,4 @@
+3D cube,orange,2
+3D triangle,oragne,1
+3D trapezoid,orange,2
+

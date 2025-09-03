@@ -1,0 +1,16 @@
+1.	Grammar Error: "Global warming have", position: first sentence  
+2.	Spelling Error: "becoming", position: first sentence  
+3.	Grammar Error: "issue", position: first sentence  
+4.	Spelling Error: "todays", position: second sentence  
+5.	Grammar Error: "is threatening", position: second sentence  
+6.	Spelling Error: "costal", position: second sentence  
+7.	Grammar Error: "scientist argues", position: third sentence  
+8.	Grammar Error: "temperatures continues", position: third sentence  
+9.	Word Choice Error: "region", position: fourth sentence  
+10.	Spelling Error: "loosing", position: fourth sentence  
+11.	Grammar Error: "goverments does not", position: fifth sentence  
+12.	Word Choice Error: "adaptation", position: sixth sentence  
+13.	Spelling Error: "adress", position: seventh sentence  
+14.	Word Choice Error: "effect", position: eighth sentence  
+15.	Consistency Error: "growths", position: eighth sentence  
+16.	Capitalization Error: "Global", position: first sentence  

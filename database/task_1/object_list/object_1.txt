@@ -1,0 +1,6 @@
+pear fruit: 1 green triangle, 1 yellow hexagon
+candy: 2 red trapezoid, 1 yellow hexagon
+cat face: 2 green triangle, 1 yellow hexagon
+apple: 2 red trapezoid, 1 green triangle
+christmas tree: 2 red trapezoid, 1 green triangle
+fish: 1 red trapezoid, 1 yellow hexagon, 1 green triangle
