@@ -1,9 +1,9 @@
 
-| [**Code**](https://github.com/robot-feedback/feedback-impact)
-| [**System Setup**](https://github.com/robot-feedback/feedback-impact/system_setup/)
-| [**User Study Questionnares**](https://github.com/robot-feedback/feedback-impact/supplementary_files)
-| [**Feedback Data**](https://github.com/robot-feedback/feedback-impact/generated_feedback/)
-| [**Prompt**](https://github.com/robot-feedback/feedback-impact/llm_prompt/)
+| [**Code**](https://github.com/robot-feedback/feedback-impact/tree/main/)
+| [**System Setup**](https://github.com/robot-feedback/feedback-impact/tree/main/system_setup/)
+| [**User Study Questionnares**](https://github.com/robot-feedback/feedback-impact/tree/main/supplementary_files)
+| [**Feedback Data**](https://github.com/robot-feedback/feedback-impact/tree/main/generated_feedback/)
+| [**Prompt**](https://github.com/robot-feedback/feedback-impact/tree/main/llm_prompt/)
 
 
 ## Impact of Adaptive Robot Feedback on Human Task Performance
