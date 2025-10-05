@@ -9,7 +9,8 @@
 ![Feedback Study Design](./project_images/feedback_study_design.png)
 
 ## Overview
-This work investigates how adaptive robot feedback—powered by large language models (LLMs)—influences human task performance and perception across different task types and agent embodiments. The study examines how feedback at different levels (task-learning, task-motivation, and self-level) interacts with promotion- and prevention-focused tasks when delivered by a robot or a voice agent.
+This project investigates how adaptive robot feedback, powered by large language models (LLMs)- influences human task performance and perception across different task types and agent embodiments.
+We explore how varying feedback levels (task-learning, task-motivation, self-level and no feedback) interact with promotion- vs. prevention-focused tasks and robot vs. voice agents to shape user outcomes in Human-Robot Interaction (HRI).
 
 
 ## Methodology
