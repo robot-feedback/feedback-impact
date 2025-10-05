@@ -47,7 +47,7 @@
 
 
 ### System Test
-1. To test whether the nao robot is working fine, activate the `nao` conda environment and then run `nao_client.py`. Before that update your nao `robot_ip` in the code.
+1. To test whether the nao robot is working fine, activate the `nao` conda environment and then run `nao_client.py`.
     ```
     conda activate nao
     python nao_client.py
@@ -65,12 +65,9 @@
 
 
 ## Quickstart
-1. Activate the two conda environments `nao`, `feedback` in two different terminals.
+1. Update the `.env` file with `API KEY`. Activate the two conda environments `nao`, `feedback` in two different terminals.
 
 2. Before starting the session, make sure the nao robot (robot-agent) and the speaker (voice agent) is connected and wokring. In `nao` terminal run `nao_client.py`.
-    ```
-    python nao_client.py
-    ```
 
 3. For the creative shape design task connect a camera with the system computer and run the following command in `feedback` terminal. Select different `set_number` for different question set.
     ```
