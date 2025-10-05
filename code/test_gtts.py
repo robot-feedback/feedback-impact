@@ -5,7 +5,7 @@ import os
 
 from google.cloud import texttospeech
 
-json_credentials_path = "radiant-math-436013-g8-5a395a37023e.json"
+json_credentials_path = "<path>"
 
 def text_to_speech_gn(text):
 

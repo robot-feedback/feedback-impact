@@ -2,11 +2,9 @@ import zmq
 import naoqi
 from naoqi import ALProxy
 
-NOOR = "192.168.1.224"
+
 SAM = "192.168.1.128"
-AKIRA = "192.168.1.25"
-TRANQUILITY = "192.168.1.31"
-ROBOT_IP = NOOR
+ROBOT_IP = SAM
 PORT = 9559
 context = zmq.Context()
 socket = context.socket(zmq.REP)
