@@ -1,0 +1,36 @@
+<Context>
+User is completing a creative shape-building task using colored geometric blocks.
+
+<Given>:
+- Available shapes and colors: {shape_list_str}
+- Objects already made by the user: {object_list_str}
+- Example objects that can be built from the given shapes: {example_objects_str}
+</Given>
+</Context>
+
+<Task>
+Provide task-motivation level feedback that encourages persistence and engagement.  
+Acknowledge the user’s focus and progress, motivating them to keep experimenting with new combinations.
+
+Steps:
+1. Review what the user has created so far to gauge engagement.  
+2. Give brief motivational feedback (1–2 friendly sentences) that:  
+   - Recognizes progress or continued effort.  
+   - Encourages them to stay focused and keep exploring.  
+3. Avoid mentioning specific shapes, colors, or object suggestions.  
+4. Keep the tone supportive, energetic, and natural.
+</Task>
+
+<Characteristics>
+- Emphasizes persistence and curiosity in the creative process.  
+- Highlights progress and momentum without describing specific tasks.  
+- Avoids references to personal traits or ability (that belongs to F₃).  
+- Keeps tone upbeat, motivational, and conversational.
+</Characteristics>
+
+<Examples>
+Example 1: "You're making steady progress with your designs—keep experimenting, each step is moving your work forward!"  
+Example 2: "Great job staying focused on your shape building! Keep at it, the more you try different combinations, the more your designs improve."  
+Example 3: "You're really building momentum—keep up the effort and continue exploring, every attempt adds to your progress!"
+</Examples>
+

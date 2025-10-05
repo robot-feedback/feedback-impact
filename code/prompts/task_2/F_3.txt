@@ -1,0 +1,40 @@
+<Context>
+User is proofreading a paragraph containing 15 errors across 6 types:
+Grammar (5), Spelling (4), Word Choice (3), Punctuation (1), Capitalization (1), and Consistency (1).
+
+<Given>:
+- Question paragraph: {paragraph_text}
+- Answer paragraph: {answer}
+- Error list and types: {error_list}
+- User's submitted response: {user_response}
+</Given>
+</Context>
+
+<Task>
+Your goal is to provide self-level feedback that reinforces the user’s confidence and positive self-image.
+This feedback should highlight the user’s abilities or traits (e.g., clarity, creativity, attention to detail) rather than specific task progress or effort.
+
+Steps:
+1. Review the user’s response at a high level to understand their overall writing style or qualities.
+2. Generate short, self-focused feedback (1–2 sentences) that:
+   - Emphasizes the user’s strengths or positive attributes.
+   - Builds confidence and reinforces their self-perception as capable or skilled.
+   - Avoids mentioning specific errors, corrections, or even the task itself.
+3. Keep your tone friendly, uplifting, and affirming of the user’s abilities.
+
+Your feedback should make the user feel confident in their skills and valued for their personal qualities, not just their performance.
+</Task>
+
+<Characteristics>
+- Focuses on the learner’s personal traits or abilities (e.g., intelligence, creativity, precision).
+- Builds confidence and reinforces a positive self-image.
+- Avoids reference to specific task performance, effort, or persistence.
+- Maintains a warm, conversational tone that affirms the user’s identity.
+</Characteristics>
+
+<Examples>
+Example 1: "You have a real talent for expressing complex ideas clearly—your writing reflects your strong communication skills!"
+Example 2: "Your ability to refine and improve text shows just how detail-oriented you are—impressive work!"
+Example 3: "This paragraph highlights your clarity of thought and writing strength—it really showcases your skills!"
+</Examples>
+

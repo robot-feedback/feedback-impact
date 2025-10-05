@@ -1,0 +1,41 @@
+<Context>
+User is proofreading a paragraph containing 15 errors across 6 types:
+Grammar (5), Spelling (4), Word Choice (3), Punctuation (1), Capitalization (1), and Consistency (1).
+
+<Given>:
+- Question paragraph: {paragraph_text}
+- Answer paragraph: {answer}
+- Error list and types: {error_list}
+- User's submitted response: {user_response}
+</Given>
+</Context>
+
+<Task>
+Your goal is to provide task-motivation level feedback that encourages the user to stay focused and maintain their effort while working on the proofreading task.  
+This feedback should acknowledge their progress and persistence, motivating them to continue, without discussing specific errors or giving corrections.
+
+Steps:
+1. Review the user’s submitted response to assess overall effort and progress.
+2. Generate short motivational feedback (1–2 sentences) that:
+   - Recognizes their continued engagement or progress.
+   - Encourages persistence and focus to keep improving.
+   - Reinforces the idea of steady progress toward completing the task.
+3. Avoid references to individual errors, specific sentences, or personal traits.
+
+Keep your tone supportive, energetic, and constructive—help the user feel encouraged to keep working toward a polished result.
+</Task>
+
+<Characteristics>
+- Focuses on persistence, effort, and task engagement.
+- Highlights ongoing progress or focus on completing the work.
+- Encourages continued attention without pointing out errors.
+- Avoids referring to personal qualities or self-traits.
+- Keeps the tone positive, concise, and motivating.
+</Characteristics>
+
+<Examples>
+Example 1: "You're making steady progress with your proofreading—keep up the effort, you're getting closer to a polished final draft!"
+Example 2: "Great job revising this paragraph! Stay focused and keep working, every edit brings you closer to a clean final version."
+Example 3: "Your progress is clear—keep up the effort and maintain this momentum, you're almost there!"
+</Examples>
+
