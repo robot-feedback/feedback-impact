@@ -11,14 +11,16 @@
 ## Overview
 This work investigates how adaptive robot feedback—powered by large language models (LLMs)—influences human task performance and perception across different task types and agent embodiments. The study examines how feedback at different levels (task-learning, task-motivation, and self-level) interacts with promotion- and prevention-focused tasks when delivered by a robot or a voice agent.
 
-## Study Design
-- **Participants:** 32
-- **Tasks:** 
-  - Promotion-focused: Creative shape design
-  - Prevention-focused: Error detection
-- **Agents:** NAO humanoid robot and voice agent
-- **Feedback Levels:** Task-learning, Task-motivation, Self, and No feedback
-- **Feedback Generation:** Real-time adaptive responses using GPT-4o-mini based on Feedback Intervention Theory
+
+## Methodology
+- **Participants:** 32  
+- **Design:** Mixed-factorial (2×2×4)
+    - **Between-subject factor:** Task type (2)
+    - **Within-subject factors:** Agent embodiment (2) and feedback levels (4)
+- **Tasks:** Creative shape design (promotion-focused) & error detection (prevention-focused)
+- **Agents:** NAO robot and voice agent
+- **Feedback Levels:** Task-learning, Task-motivation, Self, and No Feedback  
+- **Feedback Generation:** Real-time, LLM-powered adaptive responses using `GPT-4o-mini` following Feedback Intervention Theory (FIT)
 
 ## Key Findings
 - Task-learning feedback significantly improved performance in creative (promotion-focused) tasks, especially when delivered by the robot agent.
