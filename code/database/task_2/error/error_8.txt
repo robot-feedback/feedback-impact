@@ -1,0 +1,15 @@
+1.	Grammar Error: "relies", position: first sentence  
+2.	Spelling Error: "bussinesses", position: second sentence  
+3.	Grammar Error: "organization prefers", position: third sentence  
+4.	Word Choice Error: "strategy", position: third sentence  
+5.	Grammar Error: "works better", position: fourth sentence  
+6.	Grammar Error: "company fails", position: fifth sentence  
+7.	Spelling Error: "contents", position: fifth sentence  
+8.	Spelling Error: "succes", position: sixth sentence  
+9.	Word Choice Error: "resonates", position: sixth sentence  
+10.	Word Choice Error: "strategy’s", position: seventh sentence  
+11.	Punctuation Error: "strategy’s", position: seventh sentence  
+12.	Capitalization Error: "Countries", position: eighth sentence  
+13.	Grammar Error: "doesn't", position: eighth sentence  
+14.	Spelling Error: "understands", position: second sentence  
+15.	Consistency Error: "its", position: eighth sentence  

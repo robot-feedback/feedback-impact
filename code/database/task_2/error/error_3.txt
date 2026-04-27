@@ -1,0 +1,15 @@
+1.	Grammar Error: "people travels", position: first sentence  
+2.	Spelling Error: "differnt", position: first sentence  
+3.	Spelling Error: "experiance", position: first sentence  
+4.	Grammar Error: "Many faces", position: second sentence  
+5.	Spelling Error: "enviroments", position: second sentence  
+6.	Word Choice Error: "barrier", position: second sentence  
+7.	Grammar Error: "Companies tries", position: third sentence  
+8.	Grammar Error: "sometime fail", position: third sentence  
+9.	Punctuation Error: "do'nt", position: fourth sentence  
+10.	Spelling Error: "frustation", position: fifth sentence  
+11.	Consistency Error: "support system", position: sixth sentence  
+12.	Grammar Error: "should implements", position: seventh sentence  
+13.	Word Choice Error: "it’s", position: seventh sentence  
+14.	Capitalization Error: "Governments", position: seventh sentence  
+15.	Word Choice Error: "inclusion and cooperation", position: seventh sentence

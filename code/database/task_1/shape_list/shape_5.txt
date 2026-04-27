@@ -1,0 +1,4 @@
+hexagon,yello,1
+rhombus,white,2
+trapezoid,red,1
+triangle,green,1

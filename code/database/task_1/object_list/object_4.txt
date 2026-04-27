@@ -1,0 +1,6 @@
+house: 1 blue 3D cube, 1 blue 3D triangle
+horse: 1 blue 3D triangle, 1 blue 3D rectangular cut-out
+robot: 1 blue 3D rectangle, 1 blue 3D half circle, 1 clue 3D rectangular cut-out
+human figure: 1 blue 3D rectangle, 1 blue 3D cube, 1 clue 3D rectangular cut-out
+up arrow: 1 blue 3D rectangle, 1 blue 3D triangle
+castle: 1 blue 3D triangle, 1 blue 3D cube, 1 blue 3D rectangular cut-out

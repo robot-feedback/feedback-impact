@@ -1,0 +1,7 @@
+3D cube: 1 orange square, 1 blue rhombus, 1 white rhombus
+rocket: 1 orange square, 1 green triangle, 2 white rhombus
+flower 1: 1 orange square, 2 white rhombus, 1 green triangle
+human torso: 1 orange square, 2 white rhombus, 1 green triangle
+flower 2: 1 blue rhombus, 2 white rhombus, 1 green triangle
+
+ 

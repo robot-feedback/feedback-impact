@@ -1,0 +1,6 @@
+factory: 2 oragne 3D trapezoids, 2 orange 3D cubes, 1 orange 3D triangle
+house: 2 orange 3D cubes, 1 orange 3D triangle
+owl: 1 orange 3D trapezoid, 2 orange 3D cubes
+snake: 1 orange 3D trapezoid, 2 orange 3D cubes, 1 orange 3D triangle
+up arrow: 2 orange 3D trapezoids, 2 orange 3D cubes, 1 orange 3D triangle
+

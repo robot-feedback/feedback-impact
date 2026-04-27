@@ -1,0 +1,15 @@
+1.	Grammar Error: "overdependance on technology have", position: second sentence  
+2.	Spelling Error: "overdependance", position: second sentence  
+3.	Grammar Error: "try’s", position: third sentence  
+4.	Word Choice Error: "Some student", position: fourth sentence  
+5.	Grammar Error: "organizations does not", position: sixth sentence  
+6.	Spelling Error: "recognizes", position: sixth sentence  
+7.	Grammar Error: "technical issue's", position: seventh sentence  
+8.	Spelling Error: "issue's", position: seventh sentence  
+9.	Capitalization Error: "Governments", position: eighth sentence  
+10.	Grammar Error: "should implements", position: eighth sentence  
+11.	Word Choice Error: "foster communication", position: eighth sentence  
+12.	Punctuation Error: "issue's", position: seventh sentence  
+13.	Word Choice Error: "affecting the modern society", position: ninth sentence  
+14.	Consistency Error: "Some student", position: fourth sentence  
+15.	Spelling Error: "fast paced", position: first sentence  

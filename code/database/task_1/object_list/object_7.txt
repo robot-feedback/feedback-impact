@@ -1,0 +1,7 @@
+butterfly: 1 white rhombus, 2 blue rhombus
+3D cube: 3 blue rhombus
+boat: 3 blue rhombus
+fish: 3 blue rhombus, 1 green triangle, 1 white rhombus
+table lamp: 1 blue rhombus, 1 green triangle, 1 white rhombus
+bird: 2 blue rhombus, 1 white rhombus, 1 green triangle 
+book warm: 3 blue rhombus, 1 green triangle

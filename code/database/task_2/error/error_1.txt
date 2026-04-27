@@ -1,0 +1,15 @@
+1.	Spelling Error: "developement", position: first sentence  
+2.	Grammar Error: "has change", position: first sentence  
+3.	Spelling Error: "lifes", position: first sentence  
+4.	Grammar Error: "are depend", position: second sentence  
+5.	Spelling Error: "convinient", position: second sentence  
+6.	Grammar Error: "bring problem", position: third sentence  
+7.	Grammar Error: "Some argues", position: third sentence  
+8.	Word Choice Error: "effects", position: third sentence 
+9.	Word Choice Error: "evidence", position: third sentence   
+10.	Grammar Error: "generation", position: third sentence  
+11.	Word Choice Error: "then", position: third sentence  
+12.	Punctuation Error: "dont", position: fourth sentence  
+13.	Spelling Error: "accuratly", position: fourth sentence  
+14.	Consistency Error: "informations", position: fourth sentence  
+15.	Spelling Error: "conceren", position: fifth sentence

@@ -1,0 +1,5 @@
+trapezoid,red,1
+square,orange,2
+triangle,green,1
+rhombus,white,1
+

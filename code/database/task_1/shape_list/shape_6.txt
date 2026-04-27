@@ -1,0 +1,4 @@
+triangle,green,2
+rhombus,blue,1
+square,orange,1
+hexagon,yellow,1

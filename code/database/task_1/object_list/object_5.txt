@@ -1,0 +1,6 @@
+fish 1: 1 yellow hexagon, 2 white rhombus, 1 red trapezoid, 1 green triangle
+mouse: 1 yellow hexagon, 2 white rhombus, 1 green triangle
+table lamp: 1 yellow hexagon, 1 red rhombus
+fish 2: 1 yellow hexagon, 2 white rhombus, 1 green triangle
+mountain: 1 red rhombus, 1 green triangle
+dog face: 1 yellow hexagon, 2 white rhombus

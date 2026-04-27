@@ -1,0 +1,15 @@
+1.	Word Choice Error: "peoples", position: first sentence  
+2.	Grammar Error: "a integral part", position: second sentence  
+3.	Grammar Error: "these device’s", position: third sentence  
+4.	Punctuation Error: "device’s", position: third sentence  
+5.	Grammar Error: "shows", position: fourth sentence  
+6.	Grammar Error: "spends", position: fourth sentence  
+7.	Spelling Error: "eyestrain", position: fourth sentence  
+8.	Grammar Error: "should implements", position: fifth sentence  
+9.	Word Choice Error: "employees privacy", position: sixth sentence  
+10.	Grammar Error: "companies fails", position: sixth sentence  
+11.	Spelling Error: "Countries", position: seventh sentence  
+12.	Capitalization Error: "Countries", position: seventh sentence  
+13.	Word Choice Error: "this growing concern", position: seventh sentence  
+14.	Spelling Error: "workplaces", position: fifth sentence  
+15.	Consistency Error: "health issues", position: fourth sentence  

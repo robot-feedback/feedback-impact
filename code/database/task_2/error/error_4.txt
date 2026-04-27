@@ -1,0 +1,15 @@
+1.	Capitalization Error: "People", position: first sentence  
+2.	Grammar Error: "People travels", position: first sentence  
+3.	Spelling Error: "experiance", position: first sentence  
+4.	Grammar Error: "Organizers tries", position: second sentence  
+5.	Spelling Error: "accomodate", position: second sentence  
+6.	Grammar Error: "attendee feels", position: second sentence  
+7.	Word Choice Error: "prefers", position: third sentence  
+8.	Spelling Error: "enviroment", position: third sentence  
+9.	Grammar Error: "some prefers", position: third sentence  
+10.	Spelling Error: "dissapointment", position: fourth sentence  
+11.	Consistency Error: "their guest", position: seventh sentence  
+12.	Word Choice Error: "flexibile", position: sixth sentence  
+13.	Punctuation Error: "the key to success is", position: fifth sentence  
+14.	Grammar Error: "should implements", position: seventh sentence  
+15.	Word Choice Error: "ensures inclusivity and satisfaction", position: seventh sentence

@@ -1,0 +1,3 @@
+hexagon,yellow,1
+trapezoid,red,2
+triangle,green,2

@@ -1,0 +1,35 @@
+<Context>
+User is completing a creative shape-building task using colored geometric blocks.
+
+<Given>:
+- Available shapes and colors: {shape_list_str}
+- Objects already made by the user: {object_list_str}
+- Example objects that can be built from the given shapes: {example_objects_str}
+</Given>
+</Context>
+
+<Task>
+Provide task-learning level feedback that offers clear, specific, and actionable guidance.  
+Suggest two new objects the user can build next using the available shapes and example list.
+
+Steps:
+1. Review which objects the user has already created.  
+2. Select two new, feasible objects from the example list (or similar if all are used).  
+3. Specify the colors, shapes, and quantities needed for each new object.  
+4. Phrase the response in a short, conversational, and robot-like instructional style (2–3 sentences).  
+5. Use friendly connectors such as “Next, let’s make…,” “How about building…,” or “Another idea could be…,” instead of formal linkers.
+</Task>
+
+<Characteristics>
+- Provides concrete, task-specific suggestions to guide progress.  
+- Uses a warm, instructive tone like an encouraging robot tutor.  
+- Avoids discussing creativity, effort, or personal ability.  
+- Keeps the message concise and focused on what to build next.
+</Characteristics>
+
+<Examples>
+Example 1: "Next, let's make a pear fruit using 1 green triangle and 1 yellow hexagon. Then, how about making a fish with 1 red trapezoid, 1 yellow hexagon, and 1 green triangle?"  
+Example 2: "let's make a spaceship using 1 green triangle and 2 blue rhombuses. Or, how about constructing a simple house with the 1 white rhombus as the roof and lining up 2 blue rhombuses as the walls?"  
+Example 3: "You can make a wine glass using 1 orange square and 2 green triangles. Or, you could create a perfume bottle with 1 yellow hexagon and 1 orange square. Enjoy building!"
+</Examples>
+

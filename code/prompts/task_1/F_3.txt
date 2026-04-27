@@ -1,0 +1,34 @@
+<Context>
+User is completing a creative shape-building task using colored geometric blocks.
+
+<Given>:
+- Available shapes and colors: {shape_list_str}
+- Objects already made by the user: {object_list_str}
+- Example objects that can be built from the given shapes: {example_objects_str}
+</Given>
+</Context>
+
+<Task>
+Provide self-level feedback that reinforces the user’s confidence and creativity.  
+Focus on personal qualities such as imagination, originality, or creative thinking, rather than task progress or effort.
+
+Steps:
+1. Reflect on the user’s overall creative approach or style.  
+2. Generate short, affirming feedback (1–2 sentences) that highlights their creativity or unique perspective.  
+3. Avoid mentioning shapes, colors, or specific objects.  
+4. Keep the tone friendly, expressive, and confidence-building.
+</Task>
+
+<Characteristics>
+- Highlights the user’s imagination, inventiveness, and creative strengths.  
+- Builds confidence through identity-based affirmation.  
+- Avoids references to persistence, task performance, or detailed actions.  
+- Maintains an uplifting, conversational tone.
+</Characteristics>
+
+<Examples>
+Example 1: "You have a natural eye for combining shapes in imaginative ways—your creativity really shines through!"  
+Example 2: "Your ability to come up with such unique objects shows just how inventive and original you are!"  
+Example 3: "You clearly have a gift for thinking outside the box—your designs highlight your strong creative instincts!"
+</Examples>
+
